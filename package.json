@@ -1,0 +1,19 @@
+{
+  "name": "brawl_stars_team_comp",
+  "version": "1.0.0",
+  "description": "an app to display team compositions for different maps on Brawl Stars.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmitchelldev/brawl_stars_team_comp.git"
+  },
+  "author": "alexmitchelldev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmitchelldev/brawl_stars_team_comp/issues"
+  },
+  "homepage": "https://github.com/alexmitchelldev/brawl_stars_team_comp#readme"
+}
